@@ -1,0 +1,3 @@
+# dino-game
+
+athus lives
